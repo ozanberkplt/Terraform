@@ -68,12 +68,8 @@ This repo is actively evolving. Modules and project structures may change as ski
 
 ---
 
-## 🧾 License
-
-MIT License. See [LICENSE](../LICENSE) for details.
-
----
 
 ## ✍️ Author
 
-Maintained by [ozanberkplt](https://github.com/ozanberkplt)
+Maintained by [ozanberkpolat](https://github.com/ozanberkpolat)
+
